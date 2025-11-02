@@ -1,3 +1,3 @@
-import inputBox from "./inputBox";
+import InputBox from "./inputBox";
 
-export {inputBox}
+export {InputBox}
